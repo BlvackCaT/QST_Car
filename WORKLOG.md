@@ -2,7 +2,9 @@
 **今日主要完成了vscode-SSH和Linux虚拟机环境的搭建，了解了Windows和Linux的ip地址。研读了关于WS2812跑马灯的代码main.c和colorful_led.c，并完成对该实验的复现。**
 **完成ALL_white.c和Half_red.c代码的改写，同时还对呼吸灯和其它发光灯种进行了演示**
 **完成小车的ST-Link驱动调试花费较多时间，最终通过询问AI大模型（chatgpt）解决**
+
 **学习内容：**
+
 U8 是 unsigned char 八位无符号整数
 
 PC13 (DIL) → 接左边 WS2812 灯带 DIN 信号脚（前灯）
